@@ -1,0 +1,3 @@
+[submodule "Wumpus_World_Game"]
+	path = Wumpus_World_Game
+	url = https://github.com/EdenMelaku/Wumpus_World_Game.git
